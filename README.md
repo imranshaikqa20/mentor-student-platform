@@ -315,9 +315,12 @@ Once created, students can join the session using the provided details.
 
 <img src="./screenshots/SessionRoom.png" width="800"/>
 
+<img src="./screenshots/MaximizeSessionRoom.png" width="800"/>
+
+
 <img src="./screenshots/MentorSessionRoom.png" width="800"/>
 
-<img src="./screenshots/MaximizeSessionRoom.png" width="800"/>
+
 
 
 
@@ -403,7 +406,7 @@ Overall, it enhances collaboration and makes communication seamless during mento
 
 <img src="./screenshots/VideoCallOption.png" width="800"/>
 
-<img src="./screenshots/MaximizeVideoCall.png" width="800"/>
+<img src="./screenshots/MaximizeVideocall.png" width="800"/>
 
 The Video Call feature enables real-time face-to-face communication between students and mentors.
 
