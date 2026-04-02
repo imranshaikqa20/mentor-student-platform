@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* =========================================
+   🌍 BASE LAYOUT
+========================================= */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #020617; /* deep dark */
+  color: #e5e7eb; /* soft white */
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  overflow: hidden;
+}
+
+/* =========================================
+   🎥 VIDEO STYLING
+========================================= */
+video {
+  border-radius: 16px;
+  background: black;
+}
+
+/* =========================================
+   🔲 SCROLLBAR (MODERN)
+========================================= */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #020617;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+/* =========================================
+   🎛 BUTTON DEFAULTS
+========================================= */
+button {
+  transition: all 0.2s ease-in-out;
+}
+
+button:active {
+  transform: scale(0.96);
+}
+
+/* =========================================
+   🪟 GLASS EFFECT (Reusable)
+========================================= */
+.glass {
+  background: rgba(15, 23, 42, 0.6);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* =========================================
+   🎥 VIDEO TILE STYLE
+========================================= */
+.video-tile {
+  border-radius: 20px;
+  overflow: hidden;
+  background: black;
+  border: 1px solid #1e293b;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+
+/* =========================================
+   💬 CHAT BUBBLES (OPTIONAL)
+========================================= */
+.chat-bubble {
+  padding: 8px 12px;
+  border-radius: 12px;
+  max-width: 75%;
+  font-size: 14px;
+}
+
+.chat-bubble.self {
+  background: #2563eb;
+  color: white;
+  margin-left: auto;
+}
+
+.chat-bubble.other {
+  background: #334155;
+  color: #e5e7eb;
+}
+
+/* =========================================
+   ✨ SMOOTH FADE (OPTIONAL)
+========================================= */
+.fade-in {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
