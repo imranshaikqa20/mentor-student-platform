@@ -2,15 +2,12 @@
 
 
 
-
-
-\## 📘 About the Project
+## 📘 About the Project
 
 The Student-Mentor Project is a real-time collaborative platform designed to connect students with mentors for effective learning and guidance. It enables seamless communication through integrated chat, video calling, and live code editing features, allowing users to interact instantly without delays. The platform focuses on enhancing learning efficiency by providing interactive tools where students can ask questions, clarify doubts, and share ideas in real time. Mentors can guide students more effectively through live discussions and collaborative coding sessions, making the learning process practical and engaging. The system supports multiple users in a single session and ensures smooth performance with minimal latency. It is built with a user-friendly interface that allows easy navigation and accessibility for all users. Additionally, the platform maintains session continuity, ensuring that chat messages and code are preserved throughout the session. By integrating multiple functionalities into one system, it eliminates the need for separate tools for communication and coding. The project is developed using modern web technologies to ensure scalability, reliability, and responsiveness. It provides a structured environment for personalized mentoring, coding practice, and interview preparation. Overall, the system acts as a virtual classroom that enhances collaboration, improves communication, and delivers an efficient and engaging learning experience.
 
 
-
-\## 🎯 AIM
+## 🎯 AIM
 
 
 
@@ -20,7 +17,7 @@ The main aim of this project is to create an interactive and real-time learning 
 
 
 
-\## 📖 Introduction
+## 📖 Introduction
 
 
 
@@ -28,11 +25,11 @@ In today’s digital world, online learning platforms are becoming increasingly 
 
 
 
-\## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 
 
-\### Frontend Technologies
+### Frontend Technologies
 
 The frontend is built using React.js for creating dynamic and reusable UI components.
 
@@ -42,7 +39,7 @@ It ensures a fast, responsive, and user-friendly interface.
 
 
 
-\### 🔹 Backend Technologies
+### 🔹 Backend Technologies
 
 
 
@@ -54,7 +51,7 @@ It efficiently manages requests, sessions, and data processing.
 
 
 
-\### 🔹 Real-Time Communication
+### 🔹 Real-Time Communication
 
 
 
@@ -66,7 +63,7 @@ It ensures instant updates for chat and session activities.
 
 
 
-\### 🔹 Video Communication
+### 🔹 Video Communication
 
 
 
@@ -78,7 +75,7 @@ It enables live interaction between students and mentors.
 
 
 
-\### 🔹 Database
+### 🔹 Database
 
 
 
@@ -90,7 +87,7 @@ It ensures data consistency and efficient retrieval.
 
 
 
-\### 🔹 API Communication
+## 🔹 API Communication
 
 REST APIs are used for communication between frontend and backend.
 
@@ -100,7 +97,7 @@ They ensure a structured and secure data flow.
 
 
 
-\### 🔹 Styling \& UI
+### 🔹 Styling \& UI
 
 Tailwind CSS is used for designing responsive and modern interfaces.
 
@@ -110,7 +107,7 @@ It ensures consistency and clean UI design across the platform.
 
 
 
-\### 🔹 Performance \& Scalability
+### 🔹 Performance \& Scalability
 
 The system is designed to handle multiple users simultaneously.
 
@@ -126,7 +123,7 @@ The Student-Mentor Project is built using modern technologies to ensure high per
 
 
 
-\## 💡 Use Cases
+## 💡 Use Cases
 
 
 
@@ -134,11 +131,11 @@ Students can join live sessions to learn directly from mentors in real time, mak
 
 
 
-\## 📸 Screenshots with Explanation of Each Functionality
+## 📸 Screenshots with Explanation of Each Functionality
 
 
 
-\## Mentor Register Page
+## Mentor Register Page
 
 
 
@@ -168,7 +165,7 @@ After registration, mentors can log in and start conducting mentoring sessions.
 
 
 
-\## Mentor Login Page
+## Mentor Login Page
 
 
 
@@ -190,7 +187,7 @@ After successful login, mentors are redirected to their dashboard.
 
 
 
-\## Student Register Page
+## Student Register Page
 
 
 
@@ -210,7 +207,7 @@ After registration, students can log in and join mentoring sessions.
 
 
 
-\## Student Login Page
+## Student Login Page
 
 
 
@@ -232,7 +229,7 @@ After successful login, students are redirected to their dashboard.
 
 
 
-\### Mentor Dashboard
+### Mentor Dashboard
 
 
 
@@ -252,7 +249,7 @@ It is designed with a clean and intuitive interface for smooth navigation.
 
 
 
-\### Student Dashboard
+### Student Dashboard
 
 
 
@@ -274,7 +271,7 @@ It helps students track and participate in their learning effectively.
 
 
 
-\## Session Creation
+## Session Creation
 
 
 
@@ -308,13 +305,13 @@ Once created, students can join the session using the provided details.
 
 
 
-\## Session Room
+## Session Room
 
 
 
-\## Mentor Session
+## Mentor Session
 
-&#x20;
+
 
 <img src="./screenshots/SessionRoom.png" width="800"/>
 
@@ -324,7 +321,7 @@ Once created, students can join the session using the provided details.
 
 
 
-\## Student Session
+## Student Session
 
 
 
@@ -344,7 +341,7 @@ It provides an interactive environment for effective learning and mentoring.
 
 
 
-\### Online User Visibility 
+### Online User Visibility 
 
 
 
@@ -366,7 +363,7 @@ This feature enhances communication and coordination during mentoring sessions.
 
 
 
-\## Chat Room
+## Chat Room
 
 
 
@@ -400,7 +397,7 @@ Overall, it enhances collaboration and makes communication seamless during mento
 
 
 
-\## Video Call
+## Video Call
 
 
 
@@ -432,7 +429,7 @@ Overall, it creates a more interactive and effective learning environment.
 
 
 
-\### ▶️ Video Call Start
+### ▶️ Video Call Start
 
 <img src="./screenshots/VideoCallOption.png" width="800"/>
 
@@ -450,7 +447,7 @@ It establishes a connection between participants instantly.
 
 
 
-\### ⏹️ Video Call End
+### ⏹️ Video Call End
 
 
 
@@ -464,7 +461,7 @@ It disconnects all participants and stops audio/video streaming.
 
 
 
-\### 🖥️ Screen Share
+### 🖥️ Screen Share
 
 
 
@@ -472,7 +469,7 @@ It disconnects all participants and stops audio/video streaming.
 
 <img src="./screenshots/ScreensharingBoxOne.png" width="800"/>
 
-<img src="./screenshots/ScreensharingBoxTwo.png" width="800"/>
+<img src="./screenshots/ScreensharingBoxtwo.png" width="800"/>
 
 <img src="./screenshots/ScreensharingBoxThree.png" width="800"/>
 
@@ -482,7 +479,7 @@ It helps in explaining code, presentations, or concepts visually.
 
 
 
-\### 🔇 Mute / Unmute
+### 🔇 Mute / Unmute
 
 
 
@@ -494,7 +491,7 @@ It helps control background noise and manage communication effectively.
 
 
 
-\### 📷 Camera On / Off
+### 📷 Camera On / Off
 
 
 
@@ -510,13 +507,32 @@ It provides flexibility and helps manage privacy during sessions.
 
 
 
-\## Code Editor
+## Code Editor
 
+The Code Editor enables real-time collaborative coding between students and mentors.
+It allows users to write, edit, and view code simultaneously with instant updates.
+It improves practical learning by supporting live problem-solving and code explanation.
 
 
 <img src="./screenshots/CodeEditorOption.png" width="800"/>
 
+
+
+The editor supports syntax highlighting for better code readability.
+It helps mentors explain concepts through practical coding examples.
+
+
+
+
 <img src="./screenshots/CodeEditorData.png" width="800"/>
+
+
+It maintains code consistency throughout the session.
+
+The interface is responsive and easy to use for all users.
+
+
+
 
 <img src="./screenshots/MaximizeCodeEditor.png" width="800"/>
 
@@ -530,21 +546,16 @@ Changes made by one user are instantly reflected for all participants.
 
 The editor supports syntax highlighting for better code readability.
 
-It helps mentors explain concepts through practical coding examples.
 
 Students can practice and debug code during live sessions.
 
 The editor ensures smooth performance with minimal delay.
 
-It maintains code consistency throughout the session.
-
-The interface is responsive and easy to use for all users.
-
 Overall, it enhances hands-on learning and improves coding skills effectively.
 
 
 
-\## 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 
 
@@ -556,7 +567,7 @@ Scalability can be improved by deploying the application on cloud platforms with
 
 
 
-\## ✅ Conclusion
+## ✅ Conclusion
 
 
 
